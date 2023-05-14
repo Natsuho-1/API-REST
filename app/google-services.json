@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "16757400113",
+    "firebase_url": "https://desafio-dsm-default-rtdb.firebaseio.com",
+    "project_id": "desafio-dsm",
+    "storage_bucket": "desafio-dsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16757400113:android:00738612e1ce28a0a96b10",
+        "android_client_info": {
+          "package_name": "com.example.DESAFIO"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16757400113-u9657smucuq88kp1kef2efmd0go5re40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0t4vaGU7aHsOK8h-mbAhjaXkywk7i6j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16757400113-u9657smucuq88kp1kef2efmd0go5re40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16757400113:android:5b1fbcdadc4c72b0a96b10",
+        "android_client_info": {
+          "package_name": "edu.udb.retrofitappcrud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16757400113-u9657smucuq88kp1kef2efmd0go5re40.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0t4vaGU7aHsOK8h-mbAhjaXkywk7i6j0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16757400113-u9657smucuq88kp1kef2efmd0go5re40.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

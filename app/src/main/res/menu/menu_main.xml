@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/secondItem"
+        android:title="2-Alumnos"
+        app:showAsAction="never"
+        ></item>
+    <item android:id="@+id/tercerItem"
+        android:title="2-Profesores"
+        app:showAsAction="never"
+        ></item>
+</menu>
